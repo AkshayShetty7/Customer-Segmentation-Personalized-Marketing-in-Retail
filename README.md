@@ -10,7 +10,7 @@ It includes data cleaning, RFM analysis, behavioral metrics, clustering, persona
 
 > **Note:** Replace the paths below once you upload screenshots to the `/images/` folder.
 >
-> Example: `![Home Page]("C:\Users\aksha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-08 161256.png")`
+> Example: `![Home Page]("https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/blob/main/Screenshots/Screenshot%202025-11-08%20161256.png")`
 
 * ✅ **Home Page**
     * *(Add screenshot here)*
