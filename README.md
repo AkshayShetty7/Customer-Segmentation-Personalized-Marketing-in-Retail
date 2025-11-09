@@ -8,20 +8,24 @@ It includes data cleaning, RFM analysis, behavioral metrics, clustering, persona
 
 ## 📸 Dashboard Preview
 
-> **Note:** Replace the paths below once you upload screenshots to the `/images/` folder.
->
-> Example: `![Home Page]("C:\Users\aksha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-08 161256.png")`
+> **Note:** Use the "raw" link, not the "blob" link, for GitHub images.  
+> **Incorrect:** `.../blob/main/...`  
+> **Correct:** `.../raw/main/...`
 
-* ✅ **Home Page**
-    * *(Add screenshot here)*
-* ✅ **Customer Overview**
-    * *(Add screenshot here)*
-* ✅ **Customer Behavior**
-    * *(Add screenshot here)*
-* ✅ **Segment Profiles**
-    * *(Add screenshot here)*
-* ✅ **Revenue & Trends**
-    * *(Add screenshot here)*
+### ✅ Home Page
+![Home Page](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/raw/main/Screenshots/Screenshot%202025-11-08%20161256.png)
+
+### ✅ Customer Overview
+*(Add raw screenshot link here)*
+
+### ✅ Customer Behavior
+*(Add raw screenshot link here)*
+
+### ✅ Segment Profiles
+*(Add raw screenshot link here)*
+
+### ✅ Revenue & Trends
+*(Add raw screenshot link here)*
 
 ---
 
