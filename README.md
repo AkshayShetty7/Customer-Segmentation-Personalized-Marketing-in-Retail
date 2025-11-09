@@ -81,10 +81,10 @@ Steps:
 - Standardized features  
 - Tested **K = 3 to K = 6**  
 - Identified outliers  
-- Selected optimal clusters  
+- Selected optimal clusters K=6
 - Visualized clusters using **PCA**  
 
-📊 *Example PCA plot placeholder*
+
 
 ---
 
