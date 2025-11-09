@@ -10,19 +10,19 @@ It includes data cleaning, RFM analysis, behavioral metrics, clustering, persona
 
 
 ### Home Page
-![Home Page](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/raw/main/Screenshots/Screenshot%202025-11-08%20161256.png)
+![Home Page](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/blob/main/Screenshots/homepage.png)
 
 ### Customer Overview
-![Customer Overview](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/blob/main/Screenshots/Screenshot%202025-11-08%20161308.png)
+![Customer Overview](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/blob/main/Screenshots/Custoverview.png)
 
 ### Customer Behavior
-![Customer Behavior](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/blob/main/Screenshots/Screenshot%202025-11-08%20161319.png)
+![Customer Behavior](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/blob/main/Screenshots/CustBehaviour.png)
 
 ### Segment Profiles
-![Segment Profiles](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/blob/main/Screenshots/Screenshot%202025-11-08%20161329.png)
+![Segment Profiles](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/blob/main/Screenshots/segmentprofiles.png)
 
 ### Revenue & Trends
-![Revenue & Trends](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/blob/main/Screenshots/Screenshot%202025-11-08%20161343.png)
+![Revenue & Trends](https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Marketing-in-Retail/blob/main/Screenshots/rev%26%20cust%20trends.png)
 
 ---
 
@@ -126,12 +126,13 @@ git clone https://github.com/AkshayShetty7/Customer-Segmentation-Personalized-Ma
 cd Customer-Segmentation-Personalized-Marketing-in-Retail
 
 ```
+---
 
 ### **2️. Install required Python libraries
 ```bash
 pip install -r requirements.txt
 ```
-
+---
 ### **3️. Open and run the Jupyter Notebook
 ```bash
 jupyter notebook
@@ -146,7 +147,7 @@ Outputs are saved to
 ```bash
 Customer_Segmentation_Results.xlsx
 ```
-
+---
 ### **4️. Open the Power BI Dashboard**
 
 1. Open **Power BI Desktop**
@@ -161,6 +162,6 @@ Customer_Segmentation_Results.xlsx
 
 
 
-
+---
 
 
